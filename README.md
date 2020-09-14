@@ -2,7 +2,7 @@
 🔍 GitHub Finder With Flask &amp; GitHub API
 
 <p align = "center">
-  <img src = "https://github.com/zumrudu-anka/django-gitHub-finder/blob/master/gitHubFinder.gif">
+  <img src = "https://github.com/zumrudu-anka/flask-gitHub-finder/blob/master/gitHubFinder.gif">
 </p>
 
 ### Installation
