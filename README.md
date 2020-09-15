@@ -9,7 +9,7 @@
 
 - Clone this repo to your local machine using `https://github.com/zumrudu-anka/gitHub-finder.git`
 - Go to the project folder
-- run `python -m venv myvenv` for create virtual environment which name is myvenv. myvenv
+- run `python -m venv myvenv` for create virtual environment which name is myvenv
 - run `pip install -r requirements`
 
 ### Usage
